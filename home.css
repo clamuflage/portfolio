@@ -1,0 +1,44 @@
+div.bio{
+    width:250px;
+    height: 425px;
+    background-color: white;
+    border-radius: 10px;;
+}
+#nome{
+    margin-left: 25px;
+    margin-top: 0px;
+    font-size: 25px;
+    font-family: roboto;
+}
+#profissao{
+    opacity: 70%;
+    font-size: 15px;
+    margin-top: -20px;
+    margin-left: 25px;
+    font-family: roboto;
+}
+#email{
+    margin-left: 25px;
+    font-family: roboto;
+    font-size: 14px;
+}
+#numero{
+    margin-left: 25px;
+    margin-top: -5px;
+    font-family: roboto;
+    font-size: 14px;
+}
+#paragrafo-bio{
+    opacity: 70%;
+    font-size: 15px;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-family: roboto;
+}
+
+#foto-eu{
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 25px;
+    height:200px;
+}
