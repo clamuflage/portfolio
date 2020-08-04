@@ -1,8 +1,26 @@
 div.bio{
     width:250px;
+    float: left;
     height: 425px;
     background-color: white;
     border-radius: 10px;;
+}
+div.experiencia{
+    display: inline-block;
+    border-radius: 20px;
+    background-color: white;
+    width: 380px;
+    height: 250px;
+    margin-left: 30px;
+}
+div.design{
+    border-radius: 20px;
+    background-color: white;
+    width: 380px;
+    height: 200px;
+    margin-left: 410px;
+    margin-top: -155px;
+
 }
 #nome{
     margin-left: 25px;
@@ -41,4 +59,142 @@ div.bio{
     margin-top: 10px;
     margin-left: 25px;
     height:200px;
+}
+#titulo-frontend{
+    margin-left: 25px;
+    margin-top: 10px;
+    font-size: 25px;
+    font-family: roboto;
+}
+#titulo-design{
+    margin-left: 25px;
+    margin-top: 10px;
+    font-size: 25px;
+    font-family: roboto;
+}
+.wrapper1 {
+    width: 200px;
+}
+.progress-bar1 {
+    width: 220px;
+    margin-top: -40px;
+    margin-left: 120px;
+    text-align: end;
+    background-color: #e0e0e0;
+    border-radius: 3px;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, .2);
+}
+.progress-bar-fill1 {
+    display: block;
+    height: 22px;
+    width: 15%;
+    background-color: #659cef;
+    border-radius: 3px;
+}
+.wrapper2 {
+    width: 200px;
+}
+.progress-bar2 {
+    width: 220px;
+    margin-top: -40px;
+    margin-left: 120px;
+    text-align: end;
+    background-color: #e0e0e0;
+    border-radius: 3px;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, .2);
+}
+.progress-bar-fill2 {
+    display: block;
+    height: 22px;
+    width: 25%;
+    background-color: #659cef;
+    border-radius: 3px;
+}
+.wrapper3 {
+    width: 200px;
+}
+.progress-bar3 {
+    width: 220px;
+    margin-top: -40px;
+    margin-left: 120px;
+    text-align: end;
+    background-color: #e0e0e0;
+    border-radius: 3px;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, .2);
+}
+.progress-bar-fill3 {
+    display: block;
+    height: 22px;
+    width: 0%;
+    background-color: #659cef;
+    border-radius: 3px;
+}
+.wrapper4 {
+    margin-top: 25px;
+    width: 200px;
+}
+.progress-bar4 {
+    width: 220px;
+    margin-top: -40px;
+    margin-left: 120px;
+    text-align: end;
+    background-color: #e0e0e0;
+    border-radius: 3px;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, .2);
+}
+.progress-bar-fill4 {
+    display: block;
+    height: 22px;
+    width: 40%;
+    background-color: #659cef;
+    border-radius: 3px;
+}
+.wrapper {
+    width: 200px;
+}
+.progress-bar {
+    width: 220px;
+    margin-top: -40px;
+    margin-left: 120px;
+    text-align: end;
+    background-color: #e0e0e0;
+    border-radius: 3px;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, .2);
+}
+.progress-bar-fill {
+    display: block;
+    height: 22px;
+    width: 50%;
+    background-color: #659cef;
+    border-radius: 3px;
+}
+#javascript{
+    margin-left: 25px;
+    margin-top: 0px;
+    font-size: 15px;
+    font-family: roboto;
+}
+#css{
+    margin-left: 25px;
+    margin-top: 14px;
+    font-size: 15px;
+    font-family: roboto;
+}
+#reactNative{
+    margin-left: 25px;
+    margin-top: 14px;
+    font-size: 15px;
+    font-family: roboto;
+}
+#photoshop{
+    margin-left: 25px;
+    margin-top: 14px;
+    font-size: 15px;
+    font-family: roboto;
+}
+#illustrator{
+    margin-left: 25px;
+    margin-top: 14px;
+    font-size: 15px;
+    font-family: roboto;
 }
